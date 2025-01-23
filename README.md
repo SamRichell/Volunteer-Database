@@ -6,3 +6,4 @@ A database system built for a local volunteer organisation for my Computer Scien
 - Basic HTML
 - TKinter
 - Manipulating a sqlite file with python and php
+- Basic CSS styling
